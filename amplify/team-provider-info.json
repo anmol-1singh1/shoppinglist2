@@ -17,6 +17,9 @@
       },
       "api": {
         "shoppinglist2": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
